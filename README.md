@@ -1,5 +1,5 @@
-# docuintel
-docuintel : #ai_document_intelligence
+# docuintel 📑
+docuintel : #ai_document_intelligence #ocr #csharp #dotnet-sdk #form-recognizer #ai-foundry #document-intelligence-studio 
 
 
 ## Azure AI Foundry : Document Intelligence
